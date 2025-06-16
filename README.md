@@ -1,4 +1,7 @@
 ## 🧮 Calculadora Científica em Python
+
+Este projeto foi idealizado e desenvolvido para o curso de Desenvolvimento de Sistemas no SENAI.
+
 Este projeto é uma calculadora científica desenvolvida em Python, utilizando a biblioteca `math` para oferecer diversas operações matemáticas. A aplicação conta com funcionalidades básicas e avançadas, como soma, subtração, multiplicação, divisão, funções trigonométricas, logaritmos, exponenciação e muito mais.
 
 ## 🚀 Funcionalidades ##
